@@ -22,3 +22,4 @@ namespace MinhaAppVS
                 .UseStartup<Startup>();
     }
 }
+
